@@ -1,0 +1,52 @@
+body{/*estilo para el fondo*/
+  padding: 0px;
+  margin: 0px;
+  background-color:#4276E1;}
+
+footer{/*estilo para el borde inferior*/
+  background-color:#9DC9F2;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;}
+
+.cajon{/*estilos para los apartados*/
+    margin: 50px;
+    background-color:#9DC9F2;
+    border-color:#white ;
+    padding: 10px;
+    border:20px;
+    border-width: 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    margin-top: 30px;}
+
+.p{/*estilo para los titulos de la tareas / recordatorios*/
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-bottom: 2px;}
+
+.botonconfiguracion{/*estilo para boton de configuración*/
+  float: right;
+  border-radius: 50%;}
+
+.p1{/*"parrafo" para colocar los botones ne linea*/
+  margin-bottom: 0px;
+  margin-top: 0px;}
+
+.titulo{
+  width: 100%;
+  padding: 12px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 15px;}
+
+.botonmas{
+  border-radius: 50%;}
